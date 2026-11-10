@@ -1,0 +1,14 @@
+{
+  "dep": {
+    "complete_separation_feasible": false,
+    "quasi_separation_positive_margin_sum": -0.0,
+    "quasi_separation_detected": false,
+    "LP_success": true
+  },
+  "dep_sev": {
+    "complete_separation_feasible": false,
+    "quasi_separation_positive_margin_sum": -0.0,
+    "quasi_separation_detected": false,
+    "LP_success": true
+  }
+}

@@ -1,0 +1,6 @@
+Analysis,n,Estimate (95% CI),P
+5-9 versus 0–4,4449,0.936 (0.816–1.074),0.321
+10-14 versus 0–4,3861,0.911 (0.719–1.153),0.407
+>=15 versus 0–4,3682,0.723 (0.619–0.845),0.0006
+>=15 versus5–9 coefficient contrast: ratio of ORs,5120,0.772 (0.668–0.893),0.002
+Cumulative-logit cut-point multiplier,5120,0.920 (0.845–1.001),0.051

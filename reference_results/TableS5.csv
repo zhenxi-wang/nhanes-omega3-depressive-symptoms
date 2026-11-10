@@ -1,0 +1,10 @@
+Item,n,Cases,Weighted prevalence %,OR (95% CI),Raw P
+Anhedonia,5120,536,9.58,0.828 (0.710–0.966),0.020
+Depressed mood,5120,456,8.36,0.752 (0.636–0.889),0.003
+Sleep disturbance,5120,966,18.36,0.901 (0.793–1.025),0.104
+Fatigue/low energy,5120,955,18.11,0.944 (0.806–1.105),0.443
+Appetite change,5120,609,11.03,0.845 (0.719–0.993),0.042
+Worthlessness,5120,442,9.00,0.819 (0.671–0.999),0.049
+Concentration difficulty,5120,432,8.30,0.916 (0.761–1.104),0.330
+Psychomotor change,5120,210,3.78,0.641 (0.562–0.731),<0.0001
+Self-harm thoughts,5120,79,1.35,0.819 (0.566–1.186),0.265

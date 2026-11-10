@@ -1,0 +1,7 @@
+Analysis,n,Estimate (95% CI),P
+PHQ-9 >=10; EPA adjusted for DHA,5120,0.878 (0.693–1.112),0.256
+PHQ-9 >=10; DHA adjusted for EPA,5120,0.930 (0.791–1.094),0.354
+PHQ-9 >=10; EPA minusDHA log-OR coefficient contrast,5120,-0.058 (-0.370–0.255),0.697
+PHQ-9 >=15; EPA adjusted for DHA,5120,0.725 (0.500–1.052),0.085
+PHQ-9 >=15; DHA adjusted for EPA,5120,0.845 (0.718–0.995),0.044
+PHQ-9 >=15; EPA minusDHA log-OR coefficient contrast,5120,-0.153 (-0.634–0.328),0.505

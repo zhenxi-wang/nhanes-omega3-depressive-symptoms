@@ -1,0 +1,19 @@
+NHANES file,Content,Variables used
+DEMO_L,Demographic variables and sample weights,"Age, sex, race and Hispanic origin, education, marital status, family income-to-poverty ratio, nativity, survey weights, strata, PSU"
+FAR_L,Fatty acids - washed erythrocytes,"EPA, DHA, DPA n-3, ALA, arachidonic acid, linoleic acid and 10 further fatty acids (% of total fatty acids); phlebotomy weight WTPH2YR"
+DPQ_L,Mental health - depression screener,PHQ-9 items 1-9 and functional-impairment item
+FNQ_L,Functioning,Washington Group Short Set - Enhanced anxiety and depressed-affect frequency and intensity items
+HSCRP_L,High-sensitivity C-reactive protein,hsCRP (mg/L)
+BMX_L,Body measures,"Body-mass index, waist circumference"
+BIOPRO_L,Standard biochemistry profile,"Serum creatinine (eGFR), albumin, ALT, GGT"
+GHB_L,Glycohaemoglobin,HbA1c
+TCHOL_L / HDL_L / TRIGLY_L,Lipids,"Total cholesterol, HDL-C, triglycerides"
+COT_L,Cotinine,Serum cotinine
+SMQ_L / ALQ_L / PAQ_L,"Smoking, alcohol, physical activity","Smoking status, drinks per week, leisure-time moderate/vigorous activity"
+DIQ_L / MCQ_L / BPQ_L,Medical conditions,"Diabetes, cardiovascular disease, cancer, hypertension"
+FSQ_L / HIQ_L / HUQ_L,Social and health-care variables,"Adult food-security category, insurance, mental-health professional visit, self-rated health"
+SLQ_L,Sleep disorders,Usual weekday sleep duration
+DR1TOT_L,"Dietary interview, day 1 totals","Energy, dietary EPA and DHA, fish/shellfish in past 30 days"
+DSQIDS_L / DSQTOT_L,"Dietary supplements, past 30 days","Product names (omega-3 supplement identification), any supplement use"
+RXQ_RX_L,Prescription medication use,RXQ033 and RXQ050; drug names unavailable
+FPED 2021–2023 day1 totals,USDA food-pattern equivalents,13 HEI-2020 components combined with DR1TOT_L nutrients

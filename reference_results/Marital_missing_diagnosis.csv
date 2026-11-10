@@ -1,0 +1,4 @@
+Group,n,PHQ>=10 cases,PHQ>=15 cases,Weighted %
+All original marital missing,215,55,25,3.5781798050229026
+Structural age18-19,211,54,24,3.529690915786584
+True marital item missing age>=20,4,1,1,0.048488889236319006

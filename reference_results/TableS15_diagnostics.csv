@@ -1,0 +1,4 @@
+Set,M,Distinct data sets,Iterations/chain,Burn-in,Thinning,Maximum split Rhat,Maximum conditional iterations
+full,40,40,100,50,5,1.0259550915288664,9
+diet,40,40,100,50,5,1.0358662916656907,11
+full_20261121,40,40,100,50,5,1.0223703597450262,9

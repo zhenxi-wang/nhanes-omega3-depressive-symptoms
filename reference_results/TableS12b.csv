@@ -1,0 +1,4 @@
+Analysis,n,Estimate (95% CI),P
+PHQ-9 15-19 versus0–4,3606,0.634 (0.506–0.794),0.0007
+PHQ-9 20-27 versus0–4,3512,0.965 (0.686–1.357),0.825
+PHQ-9 20-27 versus15-19 coefficient contrast,5120,1.522 (0.961–2.411),0.070

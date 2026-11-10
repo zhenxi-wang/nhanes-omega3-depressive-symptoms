@@ -1,0 +1,9 @@
+data/
+outputs/
+__pycache__/
+*.pyc
+*.pkl
+*.xpt
+*.sas7bdat
+.venv/
+validation/inputs/

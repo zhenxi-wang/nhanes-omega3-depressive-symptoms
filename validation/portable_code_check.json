@@ -1,0 +1,8 @@
+{
+  "raw_derived_analytic_participants": 5120,
+  "checked_variables": 69,
+  "variables_match_final_analysis": true,
+  "fixed_predictor_matrices_match": true,
+  "portable_chain_smoke_test": true,
+  "reference_single_imputation_logOR": -0.3211320934523926
+}

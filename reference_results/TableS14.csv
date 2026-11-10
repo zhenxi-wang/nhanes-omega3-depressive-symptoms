@@ -1,0 +1,7 @@
+Analysis,n,Estimate (95% CI),P
+Any melancholic-like symptom >=2,5120,0.786 (0.700–0.882),0.0006
+Any remaining symptom >=2,5120,0.886 (0.796–0.985),0.029
+Standardised melancholic-like score,5120,-0.059 (-0.095–-0.024),0.003
+Standardised remaining-symptom score,5120,-0.038 (-0.076–-0.001),0.044
+Post hoc between-cluster ratio of ORs,5120,0.873 (0.794–0.960),0.009
+Post hoc between-cluster standardised beta difference,5120,-0.030 (-0.050–-0.009),0.008

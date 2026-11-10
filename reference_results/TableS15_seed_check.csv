@@ -1,0 +1,4 @@
+Analysis,n,Estimate (95% CI),P
+PHQ-9 >=10; alternative random seed,5120,0.863 (0.720–1.034),0.102
+PHQ-9 >=15; alternative random seed,5120,0.725 (0.620–0.847),0.0006
+PHQ>=20; alternative random seed,5120,0.989 (0.709–1.380),0.945
